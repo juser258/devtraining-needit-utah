@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="NeedIt">03e8ff4097423110159c38271153afd1</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-18 12:47:50</sys_created_on>
+        <sys_id>111d3f8497423110159c38271153aff3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_111d3f8497423110159c38271153aff3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-18 12:47:50</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>b9ce5adcdb125b004c1ff70fbf9619cd</instance_id>
+        <instance_name>dev59780</instance_name>
+        <name>sc_cat_item_catalog_111d3f8497423110159c38271153aff3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="NeedIt">03e8ff4097423110159c38271153afd1</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-18 12:47:50</sys_created_on><sys_id>111d3f8497423110159c38271153aff3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.NeedIt</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sc_cat_item_catalog_111d3f8497423110159c38271153aff3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-18 12:47:50</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-797948186</payload_hash>
+        <record_name>Service Catalog.NeedIt</record_name>
+        <reverted_from/>
+        <source>2b0eb81397397110159c38271153af9e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-18 12:47:50</sys_created_on>
+        <sys_id>551d3f8497423110159c38271153aff6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b42d3f9630000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-18 12:47:50</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>d51d3f847d4231105907d1ed801464f5</update_guid>
+        <update_guid_history>d51d3f847d4231105907d1ed801464f5:-797948186</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.NeedIt">aa22841c97423110159c38271153afa8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-18 13:10:02</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>19ed07939a2a4fc493f9497bcd814484</sys_id>
+        <sys_metadata>111d3f8497423110159c38271153aff3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt">03e8ff4097423110159c38271153afd1</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_111d3f8497423110159c38271153aff3</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_111d3f8497423110159c38271153aff3">551d3f8497423110159c38271153aff6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-18 13:10:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
